@@ -1,8 +1,7 @@
 ## About Me
-- 👋 Hi, I’m Darien Trang
-- 👀 I’m interested in Blockchain, Cryptography, and Finance/Accounting 
-- 🌱 I’m a 3rd year computer science student at SDSU
-- 💞️ I’m looking to collaborate on any project which helps people to live in a better place.
+- 👲 Hi, I’m Darien Trang
+- 🧱 I’m interested in Blockchain, Cryptography, and Finance/Accounting 
+- 👩🏻‍💻 I’m a 3rd year computer science student at SDSU
 <!--
 **dtrang7845/dtrang7845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
